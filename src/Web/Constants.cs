@@ -1,5 +1,6 @@
-﻿namespace Microsoft.eShopWeb.Web;
-
+﻿
+namespace Microsoft.eShopWeb.Web;
+// My third change
 public static class Constants
 {
     public const string BASKET_COOKIENAME = "eShop";
