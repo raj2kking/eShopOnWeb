@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: dcdccf60-82c6-45fc-bdf5-89eb88bda039
-  WEBAPP-NAME: LexxWebShop
+  WEBAPP-NAME: WEBAPP-LexxWebShop
 
 
 jobs:
